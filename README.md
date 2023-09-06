@@ -6,7 +6,7 @@ Projeto criando um repositorio, com responsividade. Ultilizando HTML e CSS como 
 | -------------  | --- |
 | :sparkles: Nome        | **Alura Books**
 | :label: Tecnologias | HTML e CSS
-| :rocket: URL         |(https://github.com/Joao-VictorBarros/Alura_Plus/edit/main/README.md)
+| :rocket: URL         |
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
